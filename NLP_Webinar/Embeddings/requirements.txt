@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pymagnitude
+pytorch_pretrained_bert
+scipy
+sklearn
+tqdm
